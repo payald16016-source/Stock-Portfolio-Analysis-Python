@@ -7,7 +7,7 @@ This project tracks live stock market data and visualizes portfolio health.
 - *Tools:* Python, Pandas, Matplotlib, Seaborn.
 - ### Visualizations:
 #### Portfolio Allocation
-![Pie Chart](pie_chart.png)
+![Pie Chart](pie_chart.png.png)
 
 #### Profit & Loss Analysis
 ![Bar Chart](bar_chart.png)
