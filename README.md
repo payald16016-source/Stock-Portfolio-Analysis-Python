@@ -16,11 +16,11 @@ This project is a real-time portfolio analysis tool built to track stock market 
 
 ### 1. Portfolio Allocation
 Shows how your money is distributed across different stocks.
-![Pie Chart](pie_chart_png)
+![Pie Chart](pie_chart_.png)
 
 ### 2. Profit & Loss Analysis
 Visual representation of which stocks are in profit or loss.
-![Bar Chart](bar_chart_png)
+![Bar Chart](bar_chart_.png)
 
 ## 🚀 Why this project?
 Coming from a Finance background, I wanted to bridge the gap between financial market knowledge and data-driven automation. This project showcases my ability to handle APIs, clean data, and present insights visually.
